@@ -1,0 +1,33 @@
+   ██████╗ ███████╗ █████╗ ███╗   ██╗███████╗
+   ██╔══██╗██╔════╝██╔══██╗████╗  ██║╚══███╔╝
+   ██████╔╝█████╗  ███████║██╔██╗ ██║  ███╔╝ 
+   ██╔══██╗██╔══╝  ██╔══██║██║╚██╗██║ ███╔╝  
+   ██║  ██║███████╗██║  ██║██║ ╚████║███████╗
+   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝
+
+
+
+
+	Super + ENTER = Terminal
+
+	Super + X = Killactive
+
+	Super + L = Logout
+
+	Super + E = FileManager
+
+	Super + Shift + F = togglefloating
+
+	Super + M = Application launcher
+
+	Super + P = pseudo # dwindle
+
+	Super + H = togglesplit # dwindle
+
+	Super + B = firefox
+
+	Super + F = Fullscreen
+
+	Super + Shift + B = reset waybar
+
+	Super + Shift + H = reset hyprpaper
