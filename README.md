@@ -2,6 +2,10 @@
 
 `cd Hyprland-Fedora`
 
-`chmod +x install.sh`
+`chmod +x install.sh shell.sh`
 
 `./install.sh`
+
+#after installation
+
+./shell.sh  #To change your shell
