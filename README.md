@@ -8,4 +8,4 @@
 
 #after installation
 
-./shell.sh  #To change your shell
+`./shell.sh`  #To change your shell
